@@ -1,0 +1,14 @@
+{
+  "name": "unix-permission-explain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NamNV609",
+  "license": "MIT",
+  "dependencies": {
+    "word-table": "^1.0.3"
+  }
+}
